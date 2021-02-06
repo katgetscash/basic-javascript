@@ -1,0 +1,3 @@
+var myFirstName = "kat ";
+var myLastName = "blake";
+console.log(myFirstName + myLastName)
