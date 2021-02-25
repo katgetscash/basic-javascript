@@ -1,2 +1,2 @@
-var myList = [["Mother in Law Tongue", 2],["Succulent Assortment", 1],["Miniature Roses", 1],["Parents", 2],["Kids",2]];
+var myList = [["Onions", 2],["Potatoes", 2],["Carrots", 2],["Beef", 1],["Curry Roux",1]];
 console.log(myList);
